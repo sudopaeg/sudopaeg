@@ -84,4 +84,6 @@ fn main() {
 ![sudopaeg's github stats](https://github-readme-stats.vercel.app/api?username=sudopaeg&count_private=true&theme=gotham)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2192](https://github.com//Requarks/wiki/pull/2192) in [Requarks/wiki](https://github.com//Requarks/wiki)
+2. 💪 Opened PR [#2181](https://github.com//Requarks/wiki/pull/2181) in [Requarks/wiki](https://github.com//Requarks/wiki)
 <!--END_SECTION:activity-->

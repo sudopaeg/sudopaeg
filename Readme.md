@@ -19,16 +19,19 @@ pub struct SimpleHuman {
   currently_in: mut String,
 }
 // impls hidden :P
-let jung = Arc::new(Mutex::new(SimpleHuman {
-  fullname: "Jung Hong Kim",
-  nickname: "sudo",
-  from: Countries::SouthKorea,
-  languages: vec!(["Korean", "English", "Mandarin", "TypeScript", "Rust", "Python", "Go", "C#"]),
-  skillz: vec!(["React", "Recoil", "Node", "Kubernetes", "Docker", "AWS", "ElasticSearch", "Terraform", "Git", "Jira", "Xamarin"]),
-  architectures: vec!(["microservices", "distributed inference", "design thinking", "event-driven"]),
-  currently_in: String::from("Hong Kong 🇭🇰"),
-}));
-thread::spawn(move || awesome_life::random_update(Arc::clone(&jung)));
+fn main() {
+  let jung = Arc::new(Mutex::new(SimpleHuman {
+    fullname: "Jung Hong Kim",
+    nickname: "sudo",
+    from: Countries::SouthKorea,
+    languages: vec!(["Korean", "English", "Mandarin", "TypeScript", "Rust", "Python", "Go", "C#"]),
+    skillz: vec!(["React", "Recoil", "Node", "Kubernetes", "Docker", "AWS", "ElasticSearch", "Terraform", "Git", "Jira", "Xamarin"]),
+    architectures: vec!(["microservices", "distributed inference", "design thinking", "event-driven"]),
+    currently_in: String::from("Hong Kong 🇭🇰"),
+  }));
+  let life = thread::spawn(move || awesome_life::random_update(Arc::clone(&jung)));
+  life.join();
+}
 ```
 
 ## Jung::beautify_aboutme()

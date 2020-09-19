@@ -6,8 +6,6 @@
 [![GitHub sudopaeg](https://img.shields.io/github/followers/sudopaeg?label=follow&style=social)](https://github.com/sudopaeg)
 </br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ```rust
 use std::sync::{Arc, Mutex};
 use std::thread;
@@ -44,31 +42,39 @@ thread::spawn(move || awesome_life::random_update(Arc::clone(&jung)));
 
 ### Frontend
 
-<img height="40" src="./assets/javascript.png" alt="JavaScript">
-<img height="40" src="./assets/typescript.png" alt="TypeScript">
-<img height="40" src="./assets/react.webp" alt="React.js">
-<img height="40" src="./assets/wasm.png" alt="WebAssembly">
+<p>
+  <img height="40" src="./assets/javascript.png" alt="JavaScript">
+  <img height="40" src="./assets/typescript.png" alt="TypeScript">
+  <img height="40" src="./assets/react.webp" alt="React.js">
+  <img height="40" src="./assets/wasm.png" alt="WebAssembly">
+</p>
 
 ### Backend
 
-<img height="40" src="./assets/node.png" alt="Node.js">
-<img height="40" src="./assets/python.png" alt="Python">
-<img height="40" src="./assets/rust.png" alt="Rust">
+<p>
+  <img height="40" src="./assets/node.png" alt="Node.js">
+  <img height="40" src="./assets/python.png" alt="Python">
+  <img height="40" src="./assets/rust.png" alt="Rust">
+</p>
 
 ### DevOps
 
-<img height="40" src="./assets/docker.png" alt="Docker">
-<img height="40" src="./assets/kubernetes.png" alt="Kubernetes">
-<img height="40" src="./assets/terraform.png" alt="Terraform">
-<img height="40" src="./assets/jira.png" alt="Jira">
-<img height="40" src="./assets/git.png" alt="Git">
-<img height="40" src="./assets/elasticsearch.png" alt="Elasticsearch">
+<p>
+  <img height="40" src="./assets/docker.png" alt="Docker">
+  <img height="40" src="./assets/kubernetes.png" alt="Kubernetes">
+  <img height="40" src="./assets/terraform.png" alt="Terraform">
+  <img height="40" src="./assets/jira.png" alt="Jira">
+  <img height="40" src="./assets/git.png" alt="Git">
+  <img height="40" src="./assets/elasticsearch.png" alt="Elasticsearch">
+</p>
 
 ### Cloud & Networking
 
-<img height="40" src="./assets/aws.png" alt="AWS">
-<img height="40" src="./assets/nginx.png" alt="Nginx">
-<img height="40" src="./assets/traefik.png" alt="Traefik">
+<p>
+  <img height="40" src="./assets/aws.png" alt="AWS">
+  <img height="40" src="./assets/nginx.png" alt="Nginx">
+  <img height="40" src="./assets/traefik.png" alt="Traefik">
+</p>
 
 ## Jung::fetch_stats()
 

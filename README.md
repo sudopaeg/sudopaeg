@@ -18,7 +18,7 @@ pub struct SimpleHuman {
   architectures: mut Vec<&str>
   currently_in: mut String,
 }
-// impls hidden :P
+// impls and traits hidden :P
 fn main() {
   let jung = Arc::new(Mutex::new(SimpleHuman {
     fullname: "Jung Hong Kim",
@@ -34,14 +34,14 @@ fn main() {
 }
 ```
 
-## Jung::beautify_aboutme()
+## jung::beautify_aboutme()
 
 - 🖥 I'm a full-stack developer, cloud architect and DevOps specialist
 - 💼 Currently the founding member and CTO of [Dayta AI](https://dayta.ai)
 - 🎓 Studied Bachelor of Computer Science and Bachelor of Business Administration at Hong Kong University of Science and Technology
 - 🤖 Interest areas include Artificial Intelligence, Cloud Computing, Sustainable and Affordable Technology for Innovation!
 
-## Jung::beautify_skillz()
+## jung::beautify_skillz()
 
 ### Frontend
 
@@ -79,9 +79,9 @@ fn main() {
   <img height="40" src="./assets/traefik.png" alt="Traefik">
 </p>
 
-## Jung::fetch_stats()
+## jung::fetch_stats()
 
-![sudopaeg's github stats](https://github-readme-stats.vercel.app/api?username=sudopaeg&count_private=true)
+![sudopaeg's github stats](https://github-readme-stats.vercel.app/api?username=sudopaeg&count_private=true&theme=gotham)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

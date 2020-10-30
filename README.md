@@ -1,6 +1,5 @@
 ## Hi 👋, Welcome to Sudo's world!
 
-[![Visits Badge](https://badges.pufler.dev/visits/sudopaeg/sudopaeg)](https://badges.pufler.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-JungHongKim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghongkim/)](https://www.linkedin.com/in/junghongkim/)
 [![Instagram Badge](https://img.shields.io/badge/-sudopaeg-dd2a7b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sudopaeg/)](https://www.instagram.com/sudopaeg/)
 [![GitHub sudopaeg](https://img.shields.io/github/followers/sudopaeg?label=follow&style=social)](https://github.com/sudopaeg)

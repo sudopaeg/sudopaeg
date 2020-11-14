@@ -36,7 +36,8 @@ fn main() {
 ## jung::beautify_aboutme()
 
 - 🖥 I'm a full-stack developer, cloud architect and DevOps specialist
-- 💼 Currently the founding member and CTO of [Dayta AI](https://dayta.ai)
+- 💼 Currently working as Senior Consultant at [Palo IT](https://www.palo-it.com)
+- 💼 Former founding member and CTO of [Dayta AI](https://dayta.ai)
 - 🎓 Studied Bachelor of Computer Science and Bachelor of Business Administration at Hong Kong University of Science and Technology
 - 🤖 Interest areas include Artificial Intelligence, Cloud Computing, Sustainable and Affordable Technology for Innovation!
 

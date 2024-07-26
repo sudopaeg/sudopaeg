@@ -1,7 +1,6 @@
 ## Hi 👋, Welcome to Sudo's world!
 
 [![Linkedin Badge](https://img.shields.io/badge/-JungHongKim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junghongkim/)](https://www.linkedin.com/in/junghongkim/)
-[![Instagram Badge](https://img.shields.io/badge/-sudopaeg-dd2a7b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sudopaeg/)](https://www.instagram.com/sudopaeg/)
 [![GitHub sudopaeg](https://img.shields.io/github/followers/sudopaeg?label=follow&style=social)](https://github.com/sudopaeg)
 </br>
 
@@ -36,9 +35,11 @@ fn main() {
 ## jung::beautify_aboutme()
 
 - 🖥 I'm a full-stack developer, cloud architect and DevOps specialist
-- 💼 Currently working as Senior Consultant at [Palo IT](https://www.palo-it.com)
+- 💼 Currently working as CEO & Co-Founder at [Klipy](https://klipy.ai)
+- 💼 Former Innovation Director at [Bakehouse by Gregoire Michaud](https://bakehouse.hk)
+- 💼 Former Senior Consultant at [PALO IT](https://palo-it.com)
 - 💼 Former founding member and CTO of [Dayta AI](https://dayta.ai)
-- 🎓 Studied Bachelor of Computer Science and Bachelor of Business Administration at Hong Kong University of Science and Technology
+- 🎓 Studied Computer Science and Business Administration at Hong Kong University of Science and Technology
 - 🤖 Interest areas include Artificial Intelligence, Cloud Computing, Sustainable and Affordable Technology for Innovation!
 
 ## jung::beautify_skillz()

@@ -35,7 +35,7 @@ fn main() {
 ## jung::beautify_aboutme()
 
 - 🖥 I'm a full-stack developer, cloud architect and DevOps specialist
-- 💼 Currently working as CEO & Co-Founder at [Klipy](https://klipy.ai)
+- 💼 Currently working as CEO & Co-Founder at [Klipy](https://useklipy.com)
 - 💼 Former Innovation Director at [Bakehouse by Gregoire Michaud](https://bakehouse.hk)
 - 💼 Former Senior Consultant at [PALO IT](https://palo-it.com)
 - 💼 Former founding member and CTO of [Dayta AI](https://dayta.ai)
